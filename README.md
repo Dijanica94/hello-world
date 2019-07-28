@@ -1,2 +1,6 @@
 # hello-world
-Just another repository 
+
+Hi Humans!
+
+Dijana here, I like Python.
+I like sports, especially volleyball.
